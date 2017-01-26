@@ -6,10 +6,7 @@ import csv
 import time
 import json
 
-"""API Key, Password and Shop Name removed"""
-#TODO: Use client secrets file like in login_gs.py 
-#TODO: Add pagination by using logic that adds order_list = shopify.Order.find(status="any",page=2)
-#TODO: Turn these into functions
+"""API Key, Password and Shop Name removed""" 
 CLIENT_SECRET_FILE = ''
 
 API_KEY = 'SHOPIFY API KEY'
